@@ -41,10 +41,16 @@ I like working on **backend systems, automation, observability**, and a bit of *
 ## ✍️ My most recent articles
 
 <a href="https://ieeexplore.ieee.org/document/9915213 " target="_blank">
-- **Proposing Tourism Chatbot by Employing The Wisdom of Crowds in Building Its Knowledge Base** —  
+- **Proposing Tourism Chatbot by Employing The Wisdom of Crowds in Building Its Knowledge Base** 
 </a>
-- **Pushing Your First App to GitHub: Step-by-Step** — YOUR_LINK_2  
-- **Checklist for Starting a Project: Best Practices** — YOUR_LINK_3  
+<br>
+<a href="https://ieeexplore.ieee.org/document/9535026" target="_blank">
+- **How CHAID-Based Rule Induction Algorithm Helps Managements of Tourism Sites Improve Tourists' Experiences** 
+</a>
+<br>
+<a href="https://www.sciencedirect.com/science/article/pii/S1877050923017167" target="_blank">
+- **Proposing a visualized comparative review analysis model on tourism domain using Naïve Bayes classifier**
+</a>
 
 ---
 
