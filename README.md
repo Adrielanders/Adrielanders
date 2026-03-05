@@ -3,16 +3,6 @@
  Replace ALL "YOUR_*"
 ========================= -->
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1220,100:0b1220&height=14&section=header" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,55:7f00ff,100:00b3ff&height=190&section=header&text=Hi%20there%2C%20I%27m%20YOUR_NAME!&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20%7C%20Scalable%20Systems%20%26%20Clean%20Code&descAlignY=70" />
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=00ffcc&label=Profile+views" />
-</p>
-
-</div>
 
 ---
 
@@ -23,7 +13,6 @@ I like working on **backend systems, automation, observability**, and a bit of *
 - 📍 Location: **YOUR_CITY, YOUR_COUNTRY**
 - 🧠 Focus: **Backend • Dev Tools • Performance • Reliability**
 - 📫 Reach me: **YOUR_EMAIL**
-- 🌐 Website: **https://YOUR_WEBSITE**
 
 ---
 
