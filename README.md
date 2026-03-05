@@ -1,63 +1,101 @@
 <!-- =========================
-     FUTURISTIC / CYBER README
-     Replace: YOUR_USERNAME, YOUR_NAME, links
+ GitHub Profile README (like the screenshot)
+ Replace ALL "YOUR_*"
 ========================= -->
 
 <div align="center">
 
-<!-- HERO / HEADER (animated-ish via SVG) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0fffc1,100:7f00ff&height=220&section=header&text=YOUR_NAME&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20%7C%20Build%20Systems%20That%20Feel%20Like%20Tomorrow&descAlignY=62" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1220,100:0b1220&height=14&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,55:7f00ff,100:00b3ff&height=190&section=header&text=Hi%20there%2C%20I%27m%20YOUR_NAME!&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20%7C%20Scalable%20Systems%20%26%20Clean%20Code&descAlignY=70" />
 
-<!-- Neon badges -->
 <p>
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ffcc?style=for-the-badge&labelColor=0b0f1a" />
-  <img src="https://img.shields.io/badge/MODE-CYBER%20CRAFT-7f00ff?style=for-the-badge&labelColor=0b0f1a" />
-  <img src="https://img.shields.io/badge/LOCATION-INDONESIA-00b3ff?style=for-the-badge&labelColor=0b0f1a" />
-</p>
-
-<!-- Typing effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2600&pause=600&color=00FFCC&center=true&vCenter=true&width=900&lines=Ship+clean+code.+Engineer+reliable+systems.;Realtime+thinker.+Async+builder.+Always+learning.;Futuristic+UI+%E2%80%A2+Backend+systems+%E2%80%A2+Data+%E2%80%A2+Automation" />
-
-<br/>
-
-<!-- Social / Links -->
-<p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-0b0f1a?style=for-the-badge&logo=linkedin&logoColor=00FFCC" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-0b0f1a?style=for-the-badge&logo=x&logoColor=00FFCC" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-0b0f1a?style=for-the-badge&logo=gmail&logoColor=00FFCC" />
-  </a>
-  <a href="https://YOUR_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-0b0f1a?style=for-the-badge&logo=vercel&logoColor=00FFCC" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=00ffcc&label=Profile+views" />
 </p>
 
 </div>
 
 ---
 
-<!-- =========================
-     “SYSTEM PANEL” SECTION
-========================= -->
+## 👋 About me
+I’m passionate about building **scalable** and **performant** applications that solve real-world problems.  
+I like working on **backend systems, automation, observability**, and a bit of **data/analytics**.
 
-<table>
-<tr>
-<td width="60%" valign="top">
+- 📍 Location: **YOUR_CITY, YOUR_COUNTRY**
+- 🧠 Focus: **Backend • Dev Tools • Performance • Reliability**
+- 📫 Reach me: **YOUR_EMAIL**
+- 🌐 Website: **https://YOUR_WEBSITE**
 
-### 🧠 SYSTEM PROFILE
-```yaml
-name: ADRIEL
-role: Software Engineer
-focus:
-  - scalable backend systems
-  - clean architecture
-  - performance + reliability
-side_quests:
-  - automation
-  - data + analytics
-  - stocks + markets
-status: "building the next thing"
+---
+
+## 🧰 When I code, I rely on
+<div align="left">
+
+<!-- You can replace these with your own (either badges or skillicons) -->
+
+<img src="https://img.shields.io/badge/HTML5-0b0f1a?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-0b0f1a?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/JavaScript-0b0f1a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/TypeScript-0b0f1a?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/React-0b0f1a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-0b0f1a?style=for-the-badge&logo=node.js&logoColor=339933" />
+<img src="https://img.shields.io/badge/PostgreSQL-0b0f1a?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/MongoDB-0b0f1a?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/Docker-0b0f1a?style=for-the-badge&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-0b0f1a?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
+<img src="https://img.shields.io/badge/Google%20Cloud-0b0f1a?style=for-the-badge&logo=googlecloud&logoColor=4285F4" />
+<img src="https://img.shields.io/badge/Linux-0b0f1a?style=for-the-badge&logo=linux&logoColor=FCC624" />
+
+</div>
+
+---
+
+## ✍️ My most recent articles
+> isi manual (paling mirip screenshot). Kalau kamu punya RSS/Medium/dev.to, nanti bisa aku bikin auto-update.
+
+- **Getting Started with React: A Beginner’s Guide** — YOUR_LINK_1  
+- **Pushing Your First App to GitHub: Step-by-Step** — YOUR_LINK_2  
+- **Checklist for Starting a Project: Best Practices** — YOUR_LINK_3  
+
+---
+
+## ☕ Support
+If you think I deserve a little pick-me-up, you can treat me to a coffee/tea 😄
+
+<a href="https://www.buymeacoffee.com/YOUR_BMAC" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" />
+</a>
+
+---
+
+## 📊 My GitHub contributions summary
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0b0f1a&ring=ff2d55&fire=ff2d55&currStreakLabel=ff2d55" />
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0b0f1a&title_color=ffffff&text_color=c9d1d9&icon_color=ff2d55" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0b0f1a&title_color=ffffff&text_color=c9d1d9" />
+
+</div>
+
+---
+
+## 📌 Pinned / Featured Projects
+- 🚀 **Project 1** — https://github.com/YOUR_USERNAME/REPO_1  
+- 🧠 **Project 2** — https://github.com/YOUR_USERNAME/REPO_2  
+- ⚙️ **Project 3** — https://github.com/YOUR_USERNAME/REPO_3  
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1220,100:0b1220&height=14&section=footer" />
+
+</div>
