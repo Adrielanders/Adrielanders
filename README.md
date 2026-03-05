@@ -39,9 +39,10 @@ I like working on **backend systems, automation, observability**, and a bit of *
 ---
 
 ## ✍️ My most recent articles
-> isi manual (paling mirip screenshot). Kalau kamu punya RSS/Medium/dev.to, nanti bisa aku bikin auto-update.
 
-- **Proposing Tourism Chatbot by Employing The Wisdom of Crowds in Building Its Knowledge Base** — https://ieeexplore.ieee.org/document/9915213  
+<a href="https://ieeexplore.ieee.org/document/9915213 " target="_blank">
+- **Proposing Tourism Chatbot by Employing The Wisdom of Crowds in Building Its Knowledge Base** —  
+</a>
 - **Pushing Your First App to GitHub: Step-by-Step** — YOUR_LINK_2  
 - **Checklist for Starting a Project: Best Practices** — YOUR_LINK_3  
 
