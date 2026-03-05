@@ -10,9 +10,9 @@
 I’m passionate about building **scalable** and **performant** applications that solve real-world problems.  
 I like working on **backend systems, automation, observability**, and a bit of **data/analytics**.
 
-- 📍 Location: **YOUR_CITY, YOUR_COUNTRY**
-- 🧠 Focus: **Backend • Dev Tools • Performance • Reliability**
-- 📫 Reach me: **YOUR_EMAIL**
+- 📍 Location: **JAKARTA, INDONESIA**
+- 🧠 Focus: **WEB DEV • Dev Tools • Performance • Reliability**
+- 📫 Reach me: **Adrielanderson.s@gmail.com**
 
 ---
 
@@ -41,7 +41,7 @@ I like working on **backend systems, automation, observability**, and a bit of *
 ## ✍️ My most recent articles
 > isi manual (paling mirip screenshot). Kalau kamu punya RSS/Medium/dev.to, nanti bisa aku bikin auto-update.
 
-- **Getting Started with React: A Beginner’s Guide** — YOUR_LINK_1  
+- **Proposing Tourism Chatbot by Employing The Wisdom of Crowds in Building Its Knowledge Base** — https://ieeexplore.ieee.org/document/9915213  
 - **Pushing Your First App to GitHub: Step-by-Step** — YOUR_LINK_2  
 - **Checklist for Starting a Project: Best Practices** — YOUR_LINK_3  
 
