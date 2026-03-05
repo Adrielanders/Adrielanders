@@ -50,7 +50,7 @@
 
 ### 🧠 SYSTEM PROFILE
 ```yaml
-name: YOUR_NAME
+name: ADRIEL
 role: Software Engineer
 focus:
   - scalable backend systems
