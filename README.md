@@ -54,35 +54,11 @@ I like working on **backend systems, automation, observability**, and a bit of *
 
 ---
 
-## ☕ Support
-If you think I deserve a little pick-me-up, you can treat me to a coffee/tea 😄
-
-<a href="https://www.buymeacoffee.com/YOUR_BMAC" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" />
-</a>
-
----
-
 ## 📊 My GitHub contributions summary
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0b0f1a&ring=ff2d55&fire=ff2d55&currStreakLabel=ff2d55" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Adrielanders&theme=tokyonight&hide_border=true&background=0b0f1a&ring=ff2d55&fire=ff2d55&currStreakLabel=ff2d55" />
 
 </div>
 
 ---
-
-## 📈 GitHub Stats
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0b0f1a&title_color=ffffff&text_color=c9d1d9&icon_color=ff2d55" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0b0f1a&title_color=ffffff&text_color=c9d1d9" />
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1220,100:0b1220&height=14&section=footer" />
-
-</div>
