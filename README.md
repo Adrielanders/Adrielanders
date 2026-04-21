@@ -81,15 +81,6 @@ If you think I deserve a little pick-me-up, you can treat me to a coffee/tea �
 
 </div>
 
----
-
-## 📌 Pinned / Featured Projects
-- 🚀 **Project 1** — https://github.com/YOUR_USERNAME/REPO_1  
-- 🧠 **Project 2** — https://github.com/YOUR_USERNAME/REPO_2  
-- ⚙️ **Project 3** — https://github.com/YOUR_USERNAME/REPO_3  
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1220,100:0b1220&height=14&section=footer" />
